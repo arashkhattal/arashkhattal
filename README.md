@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a **Full Stack Developer** passionate about learning a
 
 ### 🛠 Tech Stack
 
-- **Languages**: JavaScript, HTML, CSS
+- **Languages**: JavaScript
 - **Frontend**: React.js, Next.js
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL
